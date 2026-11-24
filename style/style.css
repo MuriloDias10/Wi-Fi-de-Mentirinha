@@ -104,7 +104,7 @@ a {
 
     border-left: 5px solid black;
     border-radius: 5px;
-    font-family: 'ARCADECLASSIC';
+    font-family: 'Gameplay';
 }
 
 .grade-cards {
@@ -127,8 +127,8 @@ a {
 }
 
 @font-face {
-    font-family: 'ARCADECLASSIC';
-    src: url(../fontes/arcade_classic_2/ARCADECLASSIC.TTF) format('truetype');
+    font-family: 'Gameplay';
+    src: url(../fontes/gameplay/Gameplay.ttf) format('truetype');
 }
 
 .mapa {
