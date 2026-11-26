@@ -14,8 +14,7 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
     color: black;
 }
 
@@ -109,6 +108,14 @@ a {
 
     border: 1px solid black;
     border-radius: 8px;
+}
+
+.formulario:hover {
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 20px;
+    transition: 0.3s;
+    background-color: #fcd36c;
 }
 
 .formulario fieldset {
